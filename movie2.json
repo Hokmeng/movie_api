@@ -1,0 +1,79 @@
+[
+    {
+        "id": "1",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg",
+        "title": "Disney's Encanto",
+        "subtitle": "This is a sing-a-long film screening",
+        "ep": "8 Episodes | size - 1.2GB"
+    },
+    {
+        "id": "2",
+        "image": "https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1709921464/amc-cdn/production/2/movies/70800/70790/PosterDynamic/163689.jpg",
+        "title": "The Fall Guy",
+        "subtitle": "The Family Madrigal on screen",
+        "ep": "10 Episodes | size - 1.1GB"
+    },
+    {
+        "id": "3",
+        "image": "https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/movie_asset/89/76/93/ppm_us_2021_sa_poster_1400x2100_nb.jpg",
+        "title": "PAW Patrol",
+        "subtitle": "A magical meteor crash lands in Adventure",
+        "ep": "12 Episodes | size - 1.0GB"
+    },
+    {
+        "id": "4",
+        "image": "https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1702493212/amc-cdn/production/2/movies/70400/70406/PosterDynamic/161281.jpg",
+        "title": "Kong Fu Panda 4",
+        "subtitle": "This spring for the first time in almost a decade",
+        "ep": "14 Episodes | size - 1.5GB"
+    },
+    {
+        "id": "5",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_luca_21670_3c13c611.jpeg",
+        "title": "Disney's Pixar Luca",
+        "subtitle": "This is a sing-a-long film screening",
+        "ep": "15 Episodes | size - 1.6GB"
+    },
+    {
+        "id": "6",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg",
+        "title": "Disney's Flozen",
+        "subtitle": "This is a sing-a-long film screening",
+        "ep": "10 Episodes | size - 1.2GB"
+    },
+    {
+        "id": "7",
+        "image": "https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1710873714/amc-cdn/production/2/movies/70300/70293/PosterDynamic/164041.jpg",
+        "title": "Ghostbusters Afterlife",
+        "subtitle": "Film screening so everyone can join in with The Family Madrigal",
+        "ep": "6 Episodes | size - 1.1GB"
+    },
+    {
+        "id": "8",
+        "image": "https://image.tmdb.org/t/p/original/mLk6vqLP3fgplHYhEZzqODiGdEG.jpg",
+        "title": "Ghostbusters Frozen Empire",
+        "subtitle": "Everyone can join in with The Family Madrigal",
+        "ep": "11 Episodes | size - 1.2GB"
+    },
+    {
+        "id": "9",
+        "image": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/01/ghostbusters_afterlife_two_ver3_xlg.jpg",
+        "title": "Disney's Encanto",
+        "subtitle": "This is a sing-a-long film screening, so everyone can join in with The Family Madrigal as the song lyrics appear on screen.",
+        "ep": "12 Episodes | size - 1.1GB"
+    },
+    {
+        "id": "10",
+        "image": "https://media.pathe.nl/nocropthumb/620x955/gfx_content/posters/Ghostbustersposter04.jpg",
+        "title": "Ghostbusters Are Back in Town",
+        "subtitle": "This is a sing-a-long film appear on screen",
+        "ep": "13 Episodes | size - 1.3GB"
+    },
+    {
+        "id": "11",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "title": "Marvel's Spider-Man 2 ",
+        "subtitle": "This is a sing-a-long Family Madriga",
+        "ep": "10 Episodes | size - 1.2GB"
+    }
+]
